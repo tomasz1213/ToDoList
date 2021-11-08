@@ -1,0 +1,162 @@
+* {
+  background-color: white;
+}
+
+.app {
+  margin-right: 28%;
+  margin-left: 28%;
+}
+@media (max-width: 600px) {
+  .app {
+    margin: 0;
+  }
+}
+.app label {
+  position: relative;
+  margin-top: 18px;
+  color: #BDBDBD;
+}
+.app label input {
+  width: 75%;
+  height: 56px;
+  border: 1px solid #BDBDBD;
+  box-sizing: border-box;
+  border-radius: 12px;
+}
+@media (max-width: 600px) {
+  .app label input {
+    width: 75%;
+  }
+}
+.app label input::placeholder {
+  padding-left: 3px;
+  font-size: 16px;
+}
+.app label input:focus {
+  outline: none;
+  padding-left: 5px;
+  font-size: 16px;
+}
+.app label button {
+  box-sizing: border-box;
+  border: 1px solid #BDBDBD;
+  border-radius: 12px;
+  background-color: #2F80ED;
+  color: white;
+  height: 56px;
+  margin-left: 25px;
+  width: 20%;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+}
+@media (max-width: 600px) {
+  .app label button {
+    width: 17%;
+  }
+}
+.app label button:focus {
+  outline: none;
+  background-color: #2e80dD;
+}
+
+h1 {
+  margin-top: 36px;
+  font-weight: bold;
+  font-size: 36px;
+  text-align: center;
+}
+
+.app__buttons {
+  display: flex;
+  position: relative;
+  font-size: 16px;
+  font-weight: 600;
+  text-align: center;
+  border-bottom: 1px solid #BDBDBD;
+  margin-bottom: 20px;
+}
+.app__buttons a {
+  margin-left: 179px;
+  margin-bottom: 18px;
+  text-decoration: none;
+  color: black;
+}
+@media (max-width: 600px) {
+  .app__buttons a {
+    margin-left: 90px;
+  }
+}
+.app__buttons a:visited {
+  text-decoration: none;
+  color: black;
+}
+.app__buttons--all::after {
+  content: "";
+  position: absolute;
+  left: 10.2rem;
+  top: 35px;
+  width: 50px;
+  border: 2px solid #2F80ED;
+}
+@media (max-width: 600px) {
+  .app__buttons--all::after {
+    left: 4.5rem;
+  }
+}
+.app__buttons--active::after {
+  content: "";
+  position: absolute;
+  left: 23.1rem;
+  top: 35px;
+  width: 60px;
+  border: 2px solid #2F80ED;
+}
+@media (max-width: 600px) {
+  .app__buttons--active::after {
+    left: 12rem;
+  }
+}
+.app__buttons--completed::after {
+  content: "";
+  position: absolute;
+  right: 7rem;
+  top: 35px;
+  width: 80px;
+  border: 2px solid #2F80ED;
+}
+@media (max-width: 600px) {
+  .app__buttons--completed::after {
+    left: 20.8rem;
+  }
+}
+
+.app__tasks {
+  margin-top: 32px;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 22px;
+}
+.app__tasks input {
+  width: 22px;
+  height: 22px;
+}
+.app__tasks .delButton {
+  position: absolute;
+  left: 70%;
+  background: url("../img/delete-16.png");
+  width: 21px;
+  height: 21px;
+  border: solid 2px red;
+  border-radius: 5px;
+}
+@media (max-width: 600px) {
+  .app__tasks .delButton {
+    left: 90%;
+  }
+}
+.app__tasks .delButton:active {
+  border: solid 2px darkred;
+}
+
+/*# sourceMappingURL=style.css.map */

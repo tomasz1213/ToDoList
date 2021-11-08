@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48a12220-dd98-45cc-b3d5-8f0bfc3faeca" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kQlNiSVp9u8jEu8PkQK780a3DW" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.buildTools.grunt.grunt-cli.package" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/index.html" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tomas\WebstormProjects\todo-app-master\css" />
+      <recent name="C:\Users\tomas\WebstormProjects\todo-app-master\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/todo-app-master/index.html" useBuiltInWebServerPort="true">
+      <method v="2">
+        <option name="LaunchBrowser.Before.Run" url="http://localhost:63342/todo-app-master/index.html" withDebugger="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType">
+      <method v="2">
+        <option name="LaunchBrowser.Before.Run" url="http://localhost:63342/todo-app-master/index.html" withDebugger="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.grunt">
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48a12220-dd98-45cc-b3d5-8f0bfc3faeca" name="Default Changelist" comment="" />
+      <created>1605640657193</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605640657193</updated>
+      <workItem from="1605640658348" duration="153000" />
+      <workItem from="1605720247510" duration="16687000" />
+      <workItem from="1605887781619" duration="3289000" />
+      <workItem from="1605968787281" duration="7000" />
+      <workItem from="1606150141148" duration="10644000" />
+      <workItem from="1606242092438" duration="8832000" />
+      <workItem from="1606415392044" duration="3000000" />
+      <workItem from="1607364765802" duration="4430000" />
+      <workItem from="1607451639106" duration="2920000" />
+      <workItem from="1607539246718" duration="5942000" />
+      <workItem from="1607625254490" duration="1895000" />
+      <workItem from="1607969689984" duration="5321000" />
+      <workItem from="1608051012312" duration="6911000" />
+      <workItem from="1608061228258" duration="40000" />
+      <workItem from="1608280077592" duration="13000" />
+      <workItem from="1608313543679" duration="17000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

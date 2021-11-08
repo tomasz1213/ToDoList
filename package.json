@@ -1,0 +1,20 @@
+{
+  "name": "todo-app-master",
+  "version": "1.0.0",
+  "description": "<!-- Please update value in the {}  -->",
+  "main": "app.js",
+  "scripts": {
+    "start": "webpack --config ./src/webpack-config.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^5.10.2"
+  },
+  "devDependencies": {
+    "css-loader": "^5.0.1",
+    "ts-loader": "^8.0.12",
+    "webpack-cli": "^4.2.0"
+  }
+}
